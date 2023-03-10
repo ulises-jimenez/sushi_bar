@@ -1,0 +1,8 @@
+certifi==2022.12.7
+charset-normalizer==2.1.1
+HMS_linode @ git+ssh://git@github.com/ulises-jimenez/HMS_linode
+idna==3.4
+linode-api4==5.3.0
+python-decouple==3.6
+requests==2.28.1
+urllib3==1.26.13
